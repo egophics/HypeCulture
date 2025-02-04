@@ -1,0 +1,178 @@
+import SwiftUI
+
+struct ContentView: View {
+  var body: some View {
+    ZStack() {
+      Group {
+        Rectangle()
+          .foregroundColor(.clear)
+          .frame(width: 754, height: 424)
+          .offset(x: 23, y: -437.50)
+        VStack(spacing: 0) {
+          ZStack() {
+            Rectangle()
+              .foregroundColor(.clear)
+              .frame(width: 405, height: 514)
+              .background(
+                AsyncImage(url: URL(string: "https://via.placeholder.com/405x514"))
+              )
+              .offset(x: -180, y: 0)
+            Rectangle()
+              .foregroundColor(.clear)
+              .frame(width: 343, height: 514)
+              .background(
+                AsyncImage(url: URL(string: "https://via.placeholder.com/343x514"))
+              )
+              .offset(x: 211, y: 0)
+          }
+          .frame(maxWidth: .infinity, maxHeight: .infinity)
+        }
+        .frame(width: 422)
+        .offset(x: 0, y: 41.50)
+        Text("kadın")
+          .font(Font.custom("Graduate", size: 48))
+          .tracking(2.40)
+          .foregroundColor(.white)
+          .offset(x: 322.50, y: 267)
+        Text("Kadın")
+          .font(Font.custom("Graduate", size: 48))
+          .tracking(2.40)
+          .foregroundColor(.white)
+          .offset(x: 308.50, y: 267)
+        Rectangle()
+          .foregroundColor(.clear)
+          .frame(width: 405, height: 373)
+          .background(
+            AsyncImage(url: URL(string: "https://via.placeholder.com/405x373"))
+          )
+          .offset(x: -8.50, y: 494)
+          .shadow(
+            color: Color(red: 0, green: 0, blue: 0, opacity: 0.25), radius: 4, y: 4
+          )
+        ZStack() {
+          ZStack() {
+            Rectangle()
+              .foregroundColor(.clear)
+              .frame(width: 404, height: 149)
+              .background(
+                AsyncImage(url: URL(string: "https://via.placeholder.com/404x149"))
+              )
+              .offset(x: -241, y: 0)
+            Rectangle()
+              .foregroundColor(.clear)
+              .frame(width: 407, height: 149)
+              .background(
+                AsyncImage(url: URL(string: "https://via.placeholder.com/407x149"))
+              )
+              .offset(x: 239.50, y: 0)
+          }
+          .frame(width: 886, height: 149)
+          .offset(x: 227, y: 0)
+          Text("HYPEDON 2000")
+            .font(Font.custom("Montserrat", size: 10).weight(.bold))
+            .tracking(0.50)
+            .foregroundColor(.white)
+            .offset(x: -138.50, y: 54.50)
+          Text("AIR HYPEDON ")
+            .font(Font.custom("Montserrat", size: 10).weight(.bold))
+            .tracking(0.50)
+            .foregroundColor(.white)
+            .offset(x: 109.50, y: 54.50)
+        }
+        .frame(width: 432, height: 149)
+        .offset(x: 7, y: 651)
+        Rectangle()
+          .foregroundColor(.clear)
+          .frame(width: 403, height: 604)
+          .background(
+            AsyncImage(url: URL(string: "https://via.placeholder.com/403x604"))
+          )
+          .offset(x: -1.50, y: 1046.50)
+        Rectangle()
+          .foregroundColor(.clear)
+          .frame(width: 463, height: 111)
+          .background(Color(red: 0.93, green: 0.93, blue: 0.93))
+          .offset(x: 2.50, y: -748)
+        Rectangle()
+          .foregroundColor(.clear)
+          .frame(width: 449, height: 44)
+          .background(.black)
+          .offset(x: 4.50, y: -674.50)
+        Text("Mobil Uygulamımızı Keşfet!")
+          .font(Font.custom("Montserrat", size: 16))
+          .tracking(0.80)
+          .foregroundColor(.white)
+          .offset(x: 0.50, y: -674.50)
+      }Group {
+        Rectangle()
+          .foregroundColor(.clear)
+          .frame(width: 71, height: 54)
+          .background(.black)
+          .cornerRadius(11)
+          .offset(x: -151.50, y: -725.50)
+        Rectangle()
+          .foregroundColor(.clear)
+          .frame(width: 81, height: 81)
+          .background(
+            AsyncImage(url: URL(string: "https://via.placeholder.com/81x81"))
+          )
+          .offset(x: -152.50, y: -724)
+        Text("hypeculture")
+          .font(Font.custom("Montserrat", size: 16).weight(.bold))
+          .tracking(0.80)
+          .foregroundColor(.black)
+          .offset(x: -52.50, y: -735.50)
+        Text("Our Street,Our Culture")
+          .font(Font.custom("Montserrat", size: 16).weight(.light))
+          .tracking(0.80)
+          .foregroundColor(.black)
+          .offset(x: -10, y: -715.50)
+        Rectangle()
+          .foregroundColor(.clear)
+          .frame(width: 71, height: 22)
+          .background(Color(red: 0.32, green: 0, blue: 1))
+          .cornerRadius(6)
+          .offset(x: 157.50, y: -726.50)
+        Text("indir")
+          .font(Font.custom("Montserrat", size: 16).weight(.bold))
+          .tracking(0.80)
+          .foregroundColor(.white)
+          .offset(x: 160, y: -726.50)
+        Text("x")
+          .font(Font.custom("Montserrat", size: 16).weight(.bold))
+          .tracking(0.80)
+          .foregroundColor(.black)
+          .offset(x: -202, y: -725.50)
+        Text("19:25")
+          .font(Font.custom("Montserrat", size: 20).weight(.bold))
+          .tracking(1)
+          .foregroundColor(.black)
+          .offset(x: -154, y: -775.50)
+        HStack(spacing: 0) {
+          ZStack() { }
+          .frame(maxWidth: .infinity, maxHeight: .infinity)
+        }
+        .padding(
+          EdgeInsets(top: 8.75, leading: 2.50, bottom: 8.75, trailing: 1.25)
+        )
+        .frame(width: 30, height: 30)
+        .offset(x: 178, y: -777.50)
+        HStack(spacing: 0) {
+
+        }
+        .padding(EdgeInsets(top: 4, leading: 0, bottom: 3, trailing: 0))
+        .frame(width: 24, height: 24)
+        .offset(x: 139, y: -779.50)
+      }
+    }
+    .frame(width: 440, height: 1607)
+    .background(Color(red: 0.93, green: 0.93, blue: 0.93))
+    .cornerRadius(50);
+  }
+}
+
+struct ContentView_Previews: PreviewProvider {
+  static var previews: some View {
+    ContentView()
+  }
+}
