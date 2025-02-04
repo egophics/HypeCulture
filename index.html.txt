@@ -1,0 +1,43 @@
+<div data-layer="ANA SAYFA" className="AnaSayfa" style={{width: 440, height: 1607, position: 'relative', background: '#EEEEEE', borderRadius: 50, overflow: 'hidden'}}>
+  <div data-layer="Nike Ad (Unofficial) 1" className="NikeAdUnofficial1" style={{width: 754, height: 424, left: -134, top: 154, position: 'absolute'}} />
+  <div data-layer="Frame 1" className="Frame1" style={{width: 422, left: 9, top: 588, position: 'absolute', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+    <div data-layer="Group 6" className="Group6" style={{alignSelf: 'stretch', flex: '1 1 0', position: 'relative'}}>
+      <img data-layer="Street Style 1" className="StreetStyle1" style={{width: 405, height: 514, left: 0, top: 0, position: 'absolute'}} src="https://via.placeholder.com/405x514" />
+      <img data-layer="Chụp Ảnh Lookbook _ Chụp Ảnh Thời Trang _ Lookbook Photography _ Fashion Photography _ TRÒN 1" className="ChPNhLookbookChPNhThITrangLookbookPhotographyFashionPhotographyTrN1" style={{width: 343, height: 514, left: 422, top: 0, position: 'absolute'}} src="https://via.placeholder.com/343x514" />
+    </div>
+  </div>
+  <div data-layer="kadın" className="KadN" style={{left: 460, top: 1043, position: 'absolute', color: 'white', fontSize: 48, fontFamily: 'Graduate', fontWeight: '400', letterSpacing: 2.40, wordWrap: 'break-word'}}>kadın</div>
+  <div data-layer="Kadın" className="KadN" style={{left: 446, top: 1043, position: 'absolute', color: 'white', fontSize: 48, fontFamily: 'Graduate', fontWeight: '400', letterSpacing: 2.40, wordWrap: 'break-word'}}>Kadın</div>
+  <img data-layer="Nike Joyride (Nike) 1" className="NikeJoyrideNike1" style={{width: 405, height: 373, left: 9, top: 1111, position: 'absolute', boxShadow: '0px 4px 4px rgba(0, 0, 0, 0.25)'}} src="https://via.placeholder.com/405x373" />
+  <div data-layer="Frame 3" className="Frame3" style={{width: 432, height: 149, left: 11, top: 1380, position: 'absolute'}}>
+    <div data-layer="Group 10" className="Group10" style={{width: 886, height: 149, left: 0, top: 0, position: 'absolute'}}>
+      <img data-layer="SİTEYE KAYDIRMA AYAKKABI 1 1" className="STeyeKaydirmaAyakkabi11" style={{width: 404, height: 149, left: 0, top: 0, position: 'absolute'}} src="https://via.placeholder.com/404x149" />
+      <img data-layer="SİTEYE KAYDIRMA 2 1" className="STeyeKaydirma21" style={{width: 407, height: 149, left: 479, top: 0, position: 'absolute'}} src="https://via.placeholder.com/407x149" />
+    </div>
+    <div data-layer="HYPEDON 2000" className="Hypedon2000" style={{left: 33, top: 123, position: 'absolute', color: 'white', fontSize: 10, fontFamily: 'Montserrat', fontWeight: '700', letterSpacing: 0.50, wordWrap: 'break-word'}}>HYPEDON 2000</div>
+    <div data-layer="AIR HYPEDON" className="AirHypedon" style={{left: 285, top: 123, position: 'absolute', color: 'white', fontSize: 10, fontFamily: 'Montserrat', fontWeight: '700', letterSpacing: 0.50, wordWrap: 'break-word'}}>AIR HYPEDON </div>
+  </div>
+  <img data-layer="OUTFİT SİTE KAPAK 1" className="OutfTSTeKapak1" style={{width: 403, height: 604, left: 17, top: 1548, position: 'absolute'}} src="https://via.placeholder.com/403x604" />
+  <div data-layer="Rectangle 15" className="Rectangle15" style={{width: 463, height: 111, left: -9, top: 0, position: 'absolute', background: '#EEEEEE'}} />
+  <div data-layer="Rectangle 11" className="Rectangle11" style={{width: 449, height: 44, left: 0, top: 107, position: 'absolute', background: 'black'}} />
+  <div data-layer="Mobil Uygulamımızı Keşfet!" className="MobilUygulamMZKeFet" style={{left: 101, top: 119, position: 'absolute', color: 'white', fontSize: 16, fontFamily: 'Montserrat', fontWeight: '400', letterSpacing: 0.80, wordWrap: 'break-word'}}>Mobil Uygulamımızı Keşfet!</div>
+  <div data-layer="Rectangle 9" className="Rectangle9" style={{width: 71, height: 54, left: 33, top: 51, position: 'absolute', background: 'black', borderRadius: 11}} />
+  <img data-layer="sarı logo png 1" className="SarLogoPng1" style={{width: 81, height: 81, left: 27, top: 39, position: 'absolute'}} src="https://via.placeholder.com/81x81" />
+  <div data-layer="hypeculture" className="Hypeculture" style={{left: 112, top: 58, position: 'absolute', color: 'black', fontSize: 16, fontFamily: 'Montserrat', fontWeight: '700', letterSpacing: 0.80, wordWrap: 'break-word'}}>hypeculture</div>
+  <div data-layer="Our Street,Our Culture" className="OurStreetOurCulture" style={{left: 112, top: 78, position: 'absolute', color: 'black', fontSize: 16, fontFamily: 'Montserrat', fontWeight: '300', letterSpacing: 0.80, wordWrap: 'break-word'}}>Our Street,Our Culture</div>
+  <div data-layer="Rectangle 10" className="Rectangle10" style={{width: 71, height: 22, left: 342, top: 66, position: 'absolute', background: '#5100FF', borderRadius: 6}} />
+  <div data-layer="indir" className="Indir" style={{left: 359, top: 67, position: 'absolute', color: 'white', fontSize: 16, fontFamily: 'Montserrat', fontWeight: '700', letterSpacing: 0.80, wordWrap: 'break-word'}}>indir</div>
+  <div data-layer="x" className="X" style={{left: 13, top: 68, position: 'absolute', color: 'black', fontSize: 16, fontFamily: 'Montserrat', fontWeight: '700', letterSpacing: 0.80, wordWrap: 'break-word'}}>x</div>
+  <div data-layer="19:25" className="25" style={{left: 39, top: 16, position: 'absolute', color: 'black', fontSize: 20, fontFamily: 'Montserrat', fontWeight: '700', letterSpacing: 1, wordWrap: 'break-word'}}>19:25</div>
+  <div data-layer="icon-park:battery-charge" className="IconParkBatteryCharge" style={{width: 30, height: 30, paddingTop: 8.75, paddingBottom: 8.75, paddingLeft: 2.50, paddingRight: 1.25, left: 383, top: 11, position: 'absolute', justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+    <div data-layer="Group" className="Group" style={{flex: '1 1 0', alignSelf: 'stretch', position: 'relative'}}>
+      <div data-layer="Vector" className="Vector" style={{width: 5.62, height: 12.50, left: 0, top: 0, position: 'absolute', border: '2px #E60808 solid'}}></div>
+      <div data-layer="Vector" className="Vector" style={{width: 5.62, height: 12.50, left: 16.88, top: -0, position: 'absolute', border: '2px #E60808 solid'}}></div>
+      <div data-layer="Vector" className="Vector" style={{width: 6.25, height: 12.50, left: 8.12, top: -0, position: 'absolute', border: '2px #E60808 solid'}}></div>
+      <div data-layer="Vector" className="Vector" style={{width: 2.50, height: 5, left: 23.75, top: 3.75, position: 'absolute', background: '#E60808'}}></div>
+    </div>
+  </div>
+  <div data-layer="material-symbols:wifi" className="MaterialSymbolsWifi" style={{width: 24, height: 24, paddingTop: 4, paddingBottom: 3, left: 347, top: 12, position: 'absolute', justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+    <div data-layer="Vector" className="Vector" style={{width: 24, height: 17, background: 'black'}}></div>
+  </div>
+</div>
